@@ -15,4 +15,8 @@ cd selection
 go test
 
 cd ..
+cd quick
+go test
+
+cd ..
 
