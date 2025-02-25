@@ -11,4 +11,8 @@ cd insertion
 go test
 
 cd ..
+cd selection
+go test
+
+cd ..
 
